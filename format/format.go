@@ -1,0 +1,3 @@
+package mwofmt
+
+func t(){}

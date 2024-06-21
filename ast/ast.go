@@ -1,0 +1,4 @@
+package mwoast
+
+func t() {
+}
